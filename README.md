@@ -1,5 +1,5 @@
-### Hi there 👋
-# GitHub Profile - Data Science and Backend Developer 🚀
+
+# Data Science and Backend Developer 🚀
 
 Hi, I'm Arturo Daza! 👋
 
