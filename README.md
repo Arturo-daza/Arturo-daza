@@ -13,10 +13,6 @@ Passionate about data science and backend development, I focus on creating innov
 - 🌐 Development of RESTful APIs
 - 📈 Data visualization using Visualization Tools and Libraries: Matplotlib, Seaborn, Plotly
 
-## Featured Projects
-- 🚀 [Project Name 1]: [Brief description and technologies used]
-- 🌐 [Project Name 2]: [Brief description and technologies used]
-- 📊 [Project Name 3]: [Brief description and technologies used]
 
 ## Collaborations
 I love collaborating with other developers and data scientists. I have contributed to open-source projects and actively participate in communities related to data science and backend development.
