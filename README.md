@@ -1,5 +1,5 @@
 
-# Data Science and Backend Developer 🚀
+# Data Analyst and Backend Developer 🚀
 
 Hi, I'm Arturo Daza! 👋
 
